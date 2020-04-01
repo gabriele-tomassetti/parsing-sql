@@ -1,0 +1,6 @@
+{
+	"antlr4.generation.listeners": false,
+	"antlr4.generation.visitors": false,
+    "antlr4.generation.language": "java",
+    "antlr4.generation.mode": "internal"
+}
